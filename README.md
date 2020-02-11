@@ -4,6 +4,6 @@ This SOFTWARE PRODUCT is provided by me, Valentin 'Truewarlock' Marius "as is" a
 
 Made in Delphi7(Pascal)-Visual programming language
 
-This programme was made for
+This project was made for
 "Visual programming with applications in robotics" at Computer science & Engineering University(Year 3, Sem 1)
 as a mandatory project.
